@@ -6,8 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<h2 align="left">Hi 👋! Huzaifa Asif  from FAST NUCES</h2>
-<img src="https://komarev.com/ghpvc/?username=whis-19&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;" alt="whis-19" data-canonical-src="https://komarev.com/ghpvc/?username=whis-19&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
+<h2 align="left">Hi 👋! Huzaifa Asif acing from FAST NUCES</h2>
+<img src="https://komarev.com/ghpvc/?username=MHuzaifaAsif&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;" alt="MHuzaifaAsif" data-canonical-src="https://komarev.com/ghpvc/?username=MHuzaifaAsif&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
 <!--<img align="right" height="225" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif"  />
 -->
 
@@ -23,12 +23,12 @@
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=whis-19&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=MHuzaifaAsif&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 <div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whis-19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MHuzaifaAsif&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph">
 </div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whis-19&amp;theme=dracula" style="width: 80%; height: 80%;" alt="GitHub Profile Summary">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MHuzaifaAsif&amp;theme=dracula" style="width: 80%; height: 80%;" alt="GitHub Profile Summary">
 
 
 </div>
